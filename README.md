@@ -14,4 +14,8 @@ The web app featuers the following:
 - The ball shakes prior to asking the user to answer the question.
 
 ## Future Plans/Features
-I'll be recreating this based on my favorite fan themes. I may even change the "answer" images as well (instead of the red triangle background). I'll also make it a bit fancier, like different eye-popping fonts, etc. But I don't plan on doing any of this anytime soon.
+I'll be recreating this based on my favorite fandom themes. I may even change the "answer" images as well (instead of the red triangle background). I'll also make it a bit fancier, like different eye-popping fonts, etc. But I don't plan on doing any of this anytime soon.
+
+## To-Do
+[ ] Make the page/site responsive before using it as base template
+[ ] Change and/or add answers
